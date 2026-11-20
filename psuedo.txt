@@ -1,0 +1,26 @@
+Plan:
+- seperate experiment, functionality, and visualization. 
+- classify data to nominal/fraudulent for each feature
+- create feature vector
+- check wether data should be normalized or not.
+
+
+
+FEATURES:
+- wavelet Morlet
+- PCA 3D
+- Heatmap
+- 
+
+- get dataset
+    - head
+    - describe
+    - plot part of it
+- calculate distribution
+- calculate GMM
+    - 3 clusters
+    
+- normalize?
+- calculate PDF
+- calculate GMM
+- trends and statistical properties
